@@ -1,0 +1,15 @@
+# Force .prettierrc (and other config files) to always use LF endings
+
+.prettierrc text eol=lf
+_.json text eol=lf
+_.yaml text eol=lf
+_.yml text eol=lf
+_.md text eol=lf
+\*.sh text eol=lf
+
+# General rule for code files (typescript, js, tsx, jsx)
+
+_.ts text eol=lf
+_.tsx text eol=lf
+_.js text eol=lf
+_.jsx text eol=lf

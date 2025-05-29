@@ -1,0 +1,5 @@
+# .prettierignore
+**/*.js
+**/*.jsx
+node_modules
+dist
